@@ -3,11 +3,11 @@
 The servo driver HAT is a PWM based expansion board designed for Raspberry Pi. The PCA9685 chip expands up to 16 channels and supports 12-bits resolution for each channel. It uses the I2C protocol for communication purpose.
 
 ## SPECIFICATIONS:
-1. Power supply: 5V OR 6V~12V (terminal)
-2. Servo voltage: 5V
-3. Logic voltage: 3.3V
-4. Driver: PCA9685
-5. Control interface: I2C
+* Power supply: 5V OR 6V~12V (terminal)
+* Servo voltage: 5V
+* Logic voltage: 3.3V
+* Driver: PCA9685
+* Control interface: I2C
 
 ## FEATURES:
 1. Up to 16-Channel servo/PWM outputs, 12-bit resolution for each channel (4096 scales).
