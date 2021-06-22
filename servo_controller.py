@@ -82,7 +82,7 @@ class I2C_Controller:
     return data
     
 if __name__=='__main__':
-    controller = I2C_Controller(0x04, debug=False)
+    controller = I2C_Controller(0x40, debug=False)
     controller.setPWMFreq(50)
     while True:
         for i in range(500,2500,10):
