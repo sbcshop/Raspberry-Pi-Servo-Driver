@@ -12,6 +12,7 @@ The servo driver HAT is a PWM based expansion board designed for Raspberry Pi. T
 * Now connect Servo motor on any servo port ranging between 0-15.
 
 * Clone Github repository by running below command in terminal.
+* 
 ``` git clone https://github.com/sbcshop/Raspberry-Pi-Servo-Driver.git ```
 
 * It will clone the repository in the '/home/pi' location, To enter cloned repository, enter the below command.
