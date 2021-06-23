@@ -2,8 +2,9 @@
 
 The servo driver HAT is a PWM based expansion board designed for Raspberry Pi. The PCA9685 chip expands up to 16 channels and supports 12-bits resolution for each channel. It uses the I2C protocol for communication purpose.
 
+For detailed information, kindly visit our wiki page : https://learn.sb-components.co.uk/Pi-servo-HAT
 
-## Python
+## How to use ?
 
 * Stack Servo HAT on Raspberry Pi.
 
