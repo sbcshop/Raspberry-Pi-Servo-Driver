@@ -10,7 +10,7 @@ For detailed information, kindly visit our wiki page : https://learn.sb-componen
 
 * Now connect the external power supply of 6V - 12V DC on the Green connector as shown below, Turn on the adapter and it will power the Raspberry Pi.
 
-<img src="https://learn.sb-components.co.uk/images/3/36/Pi_Servo_HAT.png" width="600" height="800" />
+<img src="https://learn.sb-components.co.uk/images/3/36/Pi_Servo_HAT.png" width="800" height="600" />
 
 * Now connect Servo motor on any servo port ranging between 0-15.
 
